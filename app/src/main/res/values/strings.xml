@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">BluetoothLe</string>
+
+    <string name="refresh">Обновить</string>
+    <string name="send">Отправить</string>
+
+    <string name="intent_mac_address">intent_mac_address</string>
+
+</resources>
